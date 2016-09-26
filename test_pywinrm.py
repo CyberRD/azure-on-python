@@ -1,7 +1,7 @@
 from winrm.protocol import Protocol
 
 p = Protocol(
-    endpoint='https://typhoon12341015.cloudapp.net:5986/wsman',
+    endpoint='https://sdd1203.cloudapp.net:5986/wsman',
     transport='ntlm',
     username=r'SDD',
     password='1qaz2wsx3edc!',
