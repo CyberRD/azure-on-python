@@ -135,5 +135,4 @@ crashlytics-build.properties
 fabric.properties
 
 
-.idea/azure_test.iml
-.idea/misc.xml
+.idea/
